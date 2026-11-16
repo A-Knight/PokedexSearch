@@ -1,8 +1,8 @@
-altair==5.5.0
-matplotlib==3.10.0
-matplotlib-inline==0.1.7
-numpy==2.1.3
-pandas==2.2.3
-pandasql==0.7.3
-streamlit==1.41.1
+altair
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pandasql
+streamlit
 
