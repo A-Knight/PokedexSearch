@@ -5,7 +5,7 @@ This application allows users to lookup and view Pokémon data. Built using stre
 ## Usage
 
 <ol>
-  <li>Visit the live app here: </li>
+  <li>Visit the live app here: </li> [![PokeSearch](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pokedexsearch.streamlit.app/)
   <li>Use the search bar to lookup your favourite pokemon </li>
   <li>Visualise the stats of random pokemon</li>
 </ol>
@@ -36,3 +36,9 @@ streamlit run app.py
 ## Data Source
 
 - Pokémon data: Loaded from CSV file (pokemon.csv)
+
+
+
+
+
+
