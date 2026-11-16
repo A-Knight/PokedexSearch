@@ -7,7 +7,7 @@ This application allows users to lookup and view Pokémon data. Built using stre
 ## Usage
 
 1. Visit the live app here:
-   [![PokeSearch](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pokedexsearch.streamlit.app/)
+   [![PokeSearch](https://img.shields.io/badge/PokeSearch-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pokedexsearch.streamlit.app/)
 2. Use the search bar to lookup your favourite pokemon
 3. Visualise the stats of random pokemon
 
