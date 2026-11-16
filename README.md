@@ -19,7 +19,7 @@ If you'd like to run the app locally:
 
 ```bash
 git clone https://github.com/your-username/pokedexsearch.git
-cd pokebros
+cd pokedexsearch
 ```
 
 2. Install dependencies
