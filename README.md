@@ -4,8 +4,6 @@ This application allows users to lookup and view Pokémon data. Built using stre
 
 ## Usage
 
-## Usage
-
 1. Visit the live app here:
    [![PokeSearch](https://img.shields.io/badge/PokeSearch-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pokedexsearch.streamlit.app/)
 2. Use the search bar to lookup your favourite pokemon
